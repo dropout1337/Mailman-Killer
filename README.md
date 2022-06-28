@@ -23,9 +23,7 @@
   </p>
 </div>
 
------------------------------
 <img src="https://i.imgur.com/0NVEDwq.gif"/>
------------------------------
 
 ### Contact
 View my contact information on my [telegram](https://t.me/dropoutuwu/)
