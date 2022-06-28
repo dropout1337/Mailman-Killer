@@ -24,7 +24,7 @@
 </div>
 
 -----------------------------
-![Preview](https://i.imgur.com/0NVEDwq.mp4)
+<img src="https://i.imgur.com/0NVEDwq.gif"/>
 -----------------------------
 
 ### Contact
