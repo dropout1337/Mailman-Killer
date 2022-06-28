@@ -23,6 +23,8 @@
   </p>
 </div>
 
+![Preview](https://media.discordapp.net/attachments/969526209786556458/991221592107515964/brave_UnQi6wCnwa.gif)
+
 ### Contact
 View my contact information on my [telegram](https://t.me/dropoutuwu/)
 
